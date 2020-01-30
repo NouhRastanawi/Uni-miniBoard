@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894385056181",
+    "firebase_url": "https://uni-miniboard.firebaseio.com",
+    "project_id": "uni-miniboard",
+    "storage_bucket": "uni-miniboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894385056181:android:7c11939200678cd93d11fc",
+        "android_client_info": {
+          "package_name": "com.rast.uniminiboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894385056181-g83m3fkne8emcqglucghh38hrgjmeitk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rast.uniminiboard",
+            "certificate_hash": "53419ae89ecb9c24d81eb82f0e19501de873ecdf"
+          }
+        },
+        {
+          "client_id": "894385056181-72rl3l25j4e6p78c5k773sr7jk5oi979.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSAVjt9YFgVPeuOl6nanSPq_oP0jbbS9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894385056181-72rl3l25j4e6p78c5k773sr7jk5oi979.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
