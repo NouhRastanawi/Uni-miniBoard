@@ -6,7 +6,7 @@
 
 Communication Android application build with Material Design UI and Firebase
 
-<src="https://github.com/NouhRastanawi/Uni/tree/AS">
+src <https://github.com/NouhRastanawi/Uni/tree/AS>.
 
 ## Screenshots
 
