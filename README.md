@@ -4,7 +4,7 @@
   <br>Uni miniBoard<br>
 </h1>
 
-Communication Android application build with Material Design UI and Firebase
+Communication Android application build with Android Studio and Firebase
 
 ## Screenshots
 
